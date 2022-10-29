@@ -1,0 +1,14 @@
+Day 1: Python Basics
+https://www.hackerrank.com/challenges/write-a-function?isFullScreen=true
+https://www.hackerrank.com/challenges/python-division?isFullScreen=true
+https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true
+
+Day 2: (Conditional statement)
+https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+
+(Iterative Statement)
+https://www.hackerrank.com/challenges/python-loops?isFullScreen=true
+
+
+Day 3:
