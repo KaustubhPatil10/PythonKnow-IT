@@ -11,4 +11,13 @@ https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScree
 https://www.hackerrank.com/challenges/python-loops?isFullScreen=true
 
 
-Day 3:
+Day 3: String
+https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true
+
+https://www.hackerrank.com/challenges/swap-case?isFullScreen=true
+https://www.hackerrank.com/challenges/python-string-split-and-join?isFullScreen=true
+https://www.hackerrank.com/challenges/whats-your-name?isFullScreen=true
+https://www.hackerrank.com/challenges/python-mutations?isFullScreen=true
+
