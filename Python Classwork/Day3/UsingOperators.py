@@ -1,0 +1,5 @@
+a=input("Enter the name: ")
+s1,s2=input("Enter the age and salary: ").split()
+s1=int(s1)
+s2=int(s2)
+print("Hello,%s you are %d years old and getting a salary of %d ."%(a,s1,s2))
